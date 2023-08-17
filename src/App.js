@@ -1,11 +1,16 @@
-import './App.css';
+import './App.css'
+import TopBar from './Components/TopBar'
+import StoreListing from './Components/StoreListing'
+import Background from './Components/Background'
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <TopBar />
+      <Background />
+      <StoreListing />
     </div>
-  );
+  )
 }
 
 export default App;
