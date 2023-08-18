@@ -12,10 +12,10 @@ export default function Background() {
             marginBottom: "50px",
             paddingTop: "1px",
             backgroundColor: "#DEEED6",
-            backgroundImage: "url('https://64.media.tumblr.com/3c1c00c3f33f7fbb3361b3229118dd50/05bcb7e787b4edf9-b6/s540x810/77943da2856ee249acde0d431e5bec1cfcef79fe.jpg')",
+            backgroundImage: "url('https://64.media.tumblr.com/2ef347b6eef56b649b3efdc5dd5f7b34/19bdd979aa247be2-06/s400x600/e66f6e1c148e194e36a8bd37e6987f303cc3869f.pnj')",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "right top",
-            backgroundSize: "440px",
+            backgroundSize: "350px",
           }}
           className="text-black"
         >
