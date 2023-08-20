@@ -1,7 +1,7 @@
-import './App.css'
-import TopBar from './Components/TopBar'
-import StoreListing from './Components/StoreListing'
-import Background from './Components/Background'
+import "./App.css"
+import TopBar from "./Components/TopBar"
+import StoreListing from "./Components/StoreListing"
+import Background from "./Components/Background"
 
 function App() {
   return (
@@ -13,4 +13,4 @@ function App() {
   )
 }
 
-export default App;
+export default App

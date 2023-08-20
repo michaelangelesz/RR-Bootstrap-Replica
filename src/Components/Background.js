@@ -12,7 +12,8 @@ export default function Background() {
             marginBottom: "50px",
             paddingTop: "1px",
             backgroundColor: "#DEEED6",
-            backgroundImage: "url('https://64.media.tumblr.com/2ef347b6eef56b649b3efdc5dd5f7b34/19bdd979aa247be2-06/s400x600/e66f6e1c148e194e36a8bd37e6987f303cc3869f.pnj')",
+            backgroundImage:
+              "url('https://64.media.tumblr.com/2ef347b6eef56b649b3efdc5dd5f7b34/19bdd979aa247be2-06/s400x600/e66f6e1c148e194e36a8bd37e6987f303cc3869f.pnj')",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "right top",
             backgroundSize: "350px",
@@ -48,19 +49,6 @@ export default function Background() {
           </div>
         </Card>
       </div>
-      {/* <div>
-        <img
-          style={{
-            height: "428px",
-            width: "20%",
-            position: "absolute",
-            backgroundSize: "contain",
-            backgroundRepeat: "no-repeat",
-          }}
-          src="https://d2d8wwwkmhfcva.cloudfront.net/1500x1520/d2guulkeunn7d8.cloudfront.net/assets/homepage/homepage-mobile-background-m3-high-res-ca3279087ea0a3337f671b694b196d43fd207443d5825e61295b0996974835e9.jpg"
-          alt="Card image"
-        />
-      </div> */}
     </div>
   )
 }
